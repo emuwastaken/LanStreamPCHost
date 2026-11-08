@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LanStream.Host.Console/1.0.0": {
+        "dependencies": {
+          "LanStream.Host.Core": "1.0.0"
+        },
+        "runtime": {
+          "LanStream.Host.Console.dll": {}
+        }
+      },
+      "LanStream.Host.Core/1.0.0": {
+        "runtime": {
+          "LanStream.Host.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanStream.Host.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LanStream.Host.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

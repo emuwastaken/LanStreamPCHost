@@ -1,0 +1,14 @@
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\bin\Debug\net9.0\LanStream.Host.Core.exe
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\bin\Debug\net9.0\LanStream.Host.Core.deps.json
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\bin\Debug\net9.0\LanStream.Host.Core.runtimeconfig.json
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\bin\Debug\net9.0\LanStream.Host.Core.dll
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\bin\Debug\net9.0\LanStream.Host.Core.pdb
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\LanStream.Host.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\LanStream.Host.Core.AssemblyInfoInputs.cache
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\LanStream.Host.Core.AssemblyInfo.cs
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\LanStream.Host.Core.csproj.CoreCompileInputs.cache
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\LanStream.Host.Core.dll
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\refint\LanStream.Host.Core.dll
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\LanStream.Host.Core.pdb
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\LanStream.Host.Core.genruntimeconfig.cache
+C:\Users\nilss\source\repos\LanStream.Host.Console\LanStream.Host.Core\obj\Debug\net9.0\ref\LanStream.Host.Core.dll
